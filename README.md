@@ -1,4 +1,4 @@
-chrome_elf.dll<center>
+chrome_elf.dllchrome_elf.dll<center>
 	<h1 align="center">BlockTheSpot</h1> 
 	<h4 align="center">A multi-purpose adblocker and skip-bypass for the <strong>Spotify for Windows (64 bit)</strong> </h4>
     <h5 align="center">Please support Spotify by purchasing premium</h5>
